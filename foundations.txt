@@ -1,0 +1,11 @@
+2024_10_08
+    I started the Foundations course in TOP website. I had already installed Ubuntu in a Virtual Machine because I had already worked with virtual machines and I knew I would use Linux for this project.
+    I learned about the basics of how a computer workds and how the internet works. One of the most interesting things was to understand better what DNS is and what is does and how important it is for the regular internet user.
+    Learned how to use the Terminal and how to do basic operations in it, such as creating files and directories, moving and copying things around, etc..
+
+2024_10_09
+    I learned what Git is, I installed Git and linked my system to my GitHub account.
+    Learned the basic commands on Git, like add, commit, push, status, log.
+    I started leaning about the usage and differences between HTML, CSS and JavaScript.
+    I created the TOP-Journal repository on GitHub and created the foundations.txt file to report my daily achievements regarding the foundations course of TOP.
+    I did my first commit to this repository, hopefully I will be able to update this file daily.
